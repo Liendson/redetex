@@ -38,7 +38,6 @@
   <body>
 
 		<header id="header">
-
 			<div class="container">
 				<div class="row">
 					<div class="navbar-header col-sm-12">
@@ -57,17 +56,16 @@
 			</div>
 
 			<div class="container">
-
 				<div class="logo float-left">
 					<h1 class="text-light">
+						<img src="<?php bloginfo('template_url'); ?>/dist/imagens/LOGO-REDETEX.png" alt="">
 						<a href="<?php get_permalink(); ?>/redetex" class="scrollto"><span><?php bloginfo("name") ?></span></a>
 					</h1>
 				</div>
-				<br>
+
 				<nav class="main-nav float-right d-none d-lg-block">
 					<?php add_menu_principal() ?>
 				</nav>
 
 			</div>
-			
 		</header>
