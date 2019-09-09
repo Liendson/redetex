@@ -9,7 +9,7 @@
         <div class="col-md-6 col-sm-6 intro-info order-md-first order-last">
           <h2><span>Soluções</span> <span>em</span><br><span>Redes</span> <span>de</span> <span>Proteção</span> <span>e</span> <span>Ambientações</span></h2>
           <div>
-            <a href="<?php get_permalink(); ?>/redetex/orcamento" class="btn-get-started scrollto">Solicite seu Orçamento Grátis!</a>
+            <a href="<?php get_permalink(); ?>/redetex/contato" class="btn-get-started scrollto">Solicite seu Orçamento Grátis!</a>
           </div>
         </div>
       </div>
@@ -87,7 +87,7 @@
             <p class="cta-text"> Preencha nosso formulário e solicite um orçamento para que um de nossos vendedores possa atender você!</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="<?php get_permalink(); ?>/redetex/orcamento">Solicitar Orçamento!</a>
+            <a class="cta-btn align-middle" href="<?php get_permalink(); ?>/redetex/contato">Solicitar Orçamento!</a>
           </div>
         </div>
 

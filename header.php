@@ -45,7 +45,7 @@
 						<div id="topbar">
 							<div class="container">
 								<div class="social-links">
-								<a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+								<a href="https://instagram.com/redetexambientacoes/" class="instagram"><i class="fa fa-instagram"></i></a>
 								<a href="#" class="instagram"><i class="fa fa-whatsapp"></i></a>
 								</div>
 							</div>
