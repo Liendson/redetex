@@ -38,7 +38,7 @@
   <body>
 
 		<header id="header">
-			<div class="container">
+			<!-- <div class="container">
 				<div class="row">
 					<div class="navbar-header col-sm-12">
 
@@ -53,7 +53,7 @@
 						
 					</div>
 				</div>
-			</div>
+			</div> -->
 
 			<div class="container">
 				<div class="logo float-left">
